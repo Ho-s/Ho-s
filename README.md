@@ -25,7 +25,7 @@ Gonna add until June,2021:
   <div align=center>
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHo-s%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![languagesCount](https://img.shields.io/github/languages/count/ho-s/survive)
+![languagesCount](https://img.shields.io/github/languages/count/Ho-s/survive)
 ![languages](https://img.shields.io/github/languages/top/ho-s/survive)
 ![commit-activity](https://img.shields.io/github/commit-activity/w/ho-s/survive)
 ![last-commit](https://img.shields.io/github/last-commit/ho-s/survive)
