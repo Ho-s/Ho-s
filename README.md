@@ -12,15 +12,13 @@ As a beginner, I'm lerning all stuffs of frontend.
 
 ### Languages and Tools:
 <div align='left'>
-<img src='https://user-images.githubusercontent.com/71132893/103150298-16f97800-47b6-11eb-9e1e-5f8b89080b2e.png' width='48px' height='48px'> 
-<img src='https://user-images.githubusercontent.com/71132893/103150301-18c33b80-47b6-11eb-8cd1-f91e5476f5b4.png' width='48px' height='48px'>
-<img src='https://user-images.githubusercontent.com/71132893/103150299-17920e80-47b6-11eb-9b8d-689fcb698bd2.png' width='48px' height='48px'> 
-<img src='https://user-images.githubusercontent.com/71132893/103150303-1b259580-47b6-11eb-9c28-833bc0156c72.png' width='48px' height='48px'> 
-<img src='https://user-images.githubusercontent.com/71132893/103150304-1c56c280-47b6-11eb-86c4-ebc7fd658c66.png' width='48px' height='48px'>
-	</div>
+	<img src='https://user-images.githubusercontent.com/71132893/103150298-16f97800-47b6-11eb-9e1e-5f8b89080b2e.png' width='48px' height='48px'> 
+	<img src='https://user-images.githubusercontent.com/71132893/103150299-17920e80-47b6-11eb-9b8d-689fcb698bd2.png' width='48px' height='48px'> 
+	<img src='https://user-images.githubusercontent.com/71132893/103150301-18c33b80-47b6-11eb-8cd1-f91e5476f5b4.png' width='48px' height='48px'>
+	<img src='https://user-images.githubusercontent.com/71132893/103150303-1b259580-47b6-11eb-9c28-833bc0156c72.png' width='48px' height='48px'> 
+	<img src='https://user-images.githubusercontent.com/71132893/103150304-1c56c280-47b6-11eb-86c4-ebc7fd658c66.png' width='48px' height='48px'>
+</div>
 
-  <div align=center>
-	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHo-s%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-  </div>
+<div align=center>
+	[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHo-s%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
