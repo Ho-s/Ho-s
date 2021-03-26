@@ -4,7 +4,7 @@
 Hi, I'm Byungho Joo.  
 As a beginner, I'm lerning all stuffs of frontend.
 
-- 🌱 I’m currently learning Redux.
+- 🌱 I’m currently planning to learn mobile application, especially ios
 - 🤔 Any comment will be helpful.
 - 💬 Ask me about everything.
 - ✨ I'm expecting any collaboration requests between beginners.
