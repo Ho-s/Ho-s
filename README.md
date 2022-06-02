@@ -2,13 +2,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjcoco13@gmail.com)](mailto:kjcoco13@gmail.com)  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ho-space.netlify.app/)](https://ho-space.netlify.app/)
 
 Hi, I'm Byungho Joo.  
-As a beginner, I'm lerning all stuffs of frontend.
-
-- 🌱 I’m currently planning to learn mobile application, especially ios
-- 🤔 Any comment will be helpful.
-- 💬 Ask me about everything.
-- ✨ I'm expecting any collaboration requests between beginners.
-
 
 ### Languages and Tools:
 <div align='left'>
