@@ -1,4 +1,5 @@
 ## Hi there, I'm Joo 👋
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjcoco13@gmail.com)](mailto:kjcoco13@gmail.com)  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ho-space.netlify.app/)](https://ho-space.netlify.app/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjcoco13@gmail.com)](mailto:kjcoco13@gmail.com)  
 
 Hi, I'm Byungho Joo.  
