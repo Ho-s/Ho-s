@@ -8,9 +8,8 @@ Hi, I'm Byungho Joo.
 <div align='left'>
 	<img src='https://user-images.githubusercontent.com/71132893/103150299-17920e80-47b6-11eb-9b8d-689fcb698bd2.png' width='48px' height='48px'> 
 	<img src='https://user-images.githubusercontent.com/71132893/103150301-18c33b80-47b6-11eb-8cd1-f91e5476f5b4.png' width='48px' height='48px'>
-	<img src='https://user-images.githubusercontent.com/71132893/103150304-1c56c280-47b6-11eb-86c4-ebc7fd658c66.png' width='48px' height='48px'>
+	<img src='https://github.com/Ho-s/Ho-s/assets/71132893/c7ac3792-d6c3-40c2-b612-9fe207234129' width='48px' height='48px'>
 	<img src='https://user-images.githubusercontent.com/71132893/126986574-ab390b3f-e7bc-4938-ba04-eeec6b30757e.png' width='48px' height='48px'>
-	<img src='https://user-images.githubusercontent.com/71132893/126986810-6f734273-22f4-473c-afaa-907c9f38fc07.png' width='48px' height='48px'>
 </div>
 
 <div align=center>
