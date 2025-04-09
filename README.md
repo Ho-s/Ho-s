@@ -1,7 +1,7 @@
 ## Hi there, I'm Joo 👋
 ### A Full-stack developer primarily working with TS.
 
-💬 Ask me about node, react, next, nest
+💬 NodeJS, React, NextJS, NestJS
 
 ## Skill
 <img src='https://user-images.githubusercontent.com/71132893/103150299-17920e80-47b6-11eb-9b8d-689fcb698bd2.png' width='48px' height='48px'/>
